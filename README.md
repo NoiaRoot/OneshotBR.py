@@ -92,7 +92,7 @@ Observe que o acesso root é necessário
  sudo python3 ./oneshotbr.py -i wlan0 --iface-down -K
  ```
 
-# Use os comandos a baixo caso
+# Use os comandos a baixo caso seja Necessario. =)
 ```
 """
                                          OneShotPy 0.0.2br (c) 2024
